@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Bootcamp",
+        "text": "This week we are learning Express.js and SQL",
+        "id": "ebc237f6-1319-416b-9251-565d7e31af70"
+    },
+    {
+        "title": "Another note ",
+        "text": "this is some text...",
+        "id": "5efff7bc-d8ed-42f1-b905-4d71153fa2c6"
+    }
+]
