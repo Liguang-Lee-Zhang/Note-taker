@@ -11,6 +11,8 @@ No need to install any programs. Simply go to the deployed application and start
 
 ## Usage
 
+Find the deployed application at https://shielded-gorge-31073.herokuapp.com/notes.html
+
 Click the link to the notes page to start using the app. Enter a title and notes in the right-hand side, and then press the save button found in the top right corner to save the note. You can find saved notes in the left hand side after refreshing the page. 
 
 ![alt text](assets/images/screenshot.jpg)
